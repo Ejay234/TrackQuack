@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@openscreen/sdk": "^0.7.1",
+    "dotenv": "^16.0.0"
+  }
+}
